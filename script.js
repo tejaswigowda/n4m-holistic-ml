@@ -184,7 +184,7 @@ new ControlPanel(controlsElement, {
       minTrackingConfidence: 0.5
     })
     .add([
-      new StaticText({title: 'MediaPipe Holistic'}),
+      new StaticText({title: 'n4m Holistic'}),
       fpsControl,
       new Toggle({title: 'Selfie Mode', field: 'selfieMode'}),
       new Toggle({title: 'Upper-body Only', field: 'upperBodyOnly'}),
