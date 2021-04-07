@@ -1,7 +1,7 @@
 # n4m-holistic
 Wraps [MediaPipe Holistic](https://codepen.io/mediapipe/pen/LYRRYEw) inside electron and serves the detected parts via MaxAPI.
 
-<img src='demo.gif'>
+<img src='./demo.gif'>
 
 # Steps
 1. Install npm dependencies by clicking the indicated button. You only
