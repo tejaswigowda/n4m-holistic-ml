@@ -3,7 +3,7 @@ Wraps [MediaPipe Holistic](https://codepen.io/mediapipe/pen/LYRRYEw) inside elec
 
 <img src='./demo.webp'>
 
-# Steps
+# Usage
 1. Install npm dependencies by clicking the indicated button. You only
    have to do this once!
 2. Click on the toggle button to launch. 
