@@ -7,7 +7,7 @@ Wraps [MediaPipe Holistic](https://codepen.io/mediapipe/pen/LYRRYEw) inside elec
 1. Install npm dependencies by clicking the indicated button. You only
    have to do this once!
 2. Click on the toggle button to launch. 
-3. The node.script will emit the detected results as a array.
+3. The node.script will emit the detected results as JSON.
 
 
 # Acknowledgements
