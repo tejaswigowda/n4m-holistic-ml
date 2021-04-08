@@ -16,7 +16,6 @@ socket.on("connect", () => {
 });
 
 function sendToMaxPatch(poses) {
-  console.log(poses)
 	socket.emit("dispatch", [poses]);
 }
 
